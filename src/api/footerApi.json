@@ -1,0 +1,24 @@
+{
+  "company": {
+    "name": "Atlas Web",
+    "tagline": "Your Journey Begins Here",
+    "year": 2025
+  },
+  "links": {
+    "about": "/about",
+    "contact": "/contact"
+   
+  },
+  "social": [
+    
+    {
+      "platform": "GitHub",
+      "url": "https://github.com/atlasweb",
+      "icon": "fa-github"
+    }
+  ],
+    "contact": {
+    "email": "support@atlasweb.com",
+    "address": "123 Atlas Street, Web City, India"
+  }
+}

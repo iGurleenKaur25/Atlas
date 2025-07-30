@@ -1,0 +1,72 @@
+ [
+  {
+    "id": 1,
+    "name": "Brazil",
+    "capital": "Brasília",
+    "population": "213,000,000",
+    "region": "South America",
+    "currency": "Brazilian Real",
+    "language": "Portuguese",
+    "flag": "https://flagcdn.com/br.svg"
+  },
+  {
+    "id": 2,
+    "name": "Canada",
+    "capital": "Ottawa",
+    "population": "38,000,000",
+    "region": "North America",
+    "currency": "Canadian Dollar",
+    "language": "English, French",
+    "flag": "https://flagcdn.com/ca.svg"
+  },
+  {
+    "id": 3,
+    "name": "Japan",
+    "capital": "Tokyo",
+    "population": "125,000,000",
+    "region": "Asia",
+    "currency": "Yen",
+    "language": "Japanese",
+    "flag": "https://flagcdn.com/jp.svg"
+  },
+  {
+    "id": 4,
+    "name": "Germany",
+    "capital": "Berlin",
+    "population": "83,000,000",
+    "region": "Europe",
+    "currency": "Euro",
+    "language": "German",
+    "flag": "https://flagcdn.com/de.svg"
+  },
+  {
+    "id": 5,
+    "name": "Australia",
+    "capital": "Canberra",
+    "population": "26,000,000",
+    "region": "Oceania",
+    "currency": "Australian Dollar",
+    "language": "English",
+    "flag": "https://flagcdn.com/au.svg"
+  },
+  {
+    "id": 6,
+    "name": "Egypt",
+    "capital": "Cairo",
+    "population": "110,000,000",
+    "region": "Africa",
+    "currency": "Egyptian Pound",
+    "language": "Arabic",
+    "flag": "https://flagcdn.com/eg.svg"
+  },
+  {
+    "id": 7,
+    "name": "France",
+    "capital": "Paris",
+    "population": "67,000,000",
+    "region": "Europe",
+    "currency": "Euro",
+    "language": "French",
+    "flag": "https://flagcdn.com/fr.svg"
+  }
+]

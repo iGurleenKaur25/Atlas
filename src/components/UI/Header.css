@@ -1,0 +1,55 @@
+
+
+/* Header background and basic styling */
+header {
+  background-color: #1f1f2e;
+  padding: 10px 0;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+}
+
+/* Make sure navbar inherits dark background */
+.navbar {
+  background-color: transparent !important;
+}
+
+/* Brand (logo) */
+.navbar-brand {
+  color: #ffffff;
+  font-weight: bold;
+  font-size: 1.6rem;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+
+.navbar-brand:hover {
+  color: #a2d2ff;
+}
+
+/* NavLink base style */
+.nav-link {
+  color: #cccccc !important;
+  font-weight: 500;
+  padding: 8px 16px;
+  transition: color 0.3s ease, background-color 0.3s ease;
+  border-radius: 4px;
+  text-decoration: none;
+}
+
+/* On hover */
+.nav-link:hover {
+  color: #ffffff !important;
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+/* When active */
+.nav-link.active {
+  color: #ffffff !important;
+  background-color: #007bff;
+  font-weight: bold;
+}
+
+/* Navbar responsive toggler icon for dark backgrounds */
+.navbar-toggler {
+  border: none;
+  filter: brightness(200%);
+}
