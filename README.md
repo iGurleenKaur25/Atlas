@@ -1,1 +1,1 @@
-Deplyed Version -https://atlassofworld.netlify.app/
+Deployed Version -https://atlassofworld.netlify.app/
